@@ -6,7 +6,7 @@ import AddExpensePage from './../components/AddExpensePage';
 import HelpExpensePage from '../components/HelpExpensePage';
 import EditExpensePage from './../components/EditExpensePage';
 import Header from './../components/Header';
-import ExpenseDashboardPage from './../components/ExpenseDashBoardPage'
+import ExpenseDashboardPage from './../components/ExpenseDashboardPage'
 
 
 const AppRouter = () => (
