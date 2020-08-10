@@ -11,13 +11,13 @@ export default [{
     id: '2',
     description: 'Rent',
     note: '',
-    amount: 1203,
+    amount: 1000,
     createdAt: moment(0).subtract(4,'days').valueOf()
 },{
     
     id: '3',
     description: 'Shoes',
     note: '',
-    amount: 1013, 
+    amount: 13000, 
     createdAt: moment(0).add(4,'days').valueOf(),
 }];
